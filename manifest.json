@@ -10,5 +10,12 @@
     "default_icon": {
       "32": "icons/page-32.png"
     }
-  }
+  },
+  
+  "permissions": [
+  "*://developer.mozilla.org/*",
+  "webRequest",
+  "bookmarks",
+  "tabs"
+  ]
 }

@@ -1,15 +1,15 @@
 html, body {
-  width: 300px;
+  width: 200px;
 }
 
-.page-choice {
+.page-choice, .bookmarking {
   width: 100%;
   padding: 4px;
-  font-size: 1.5em;
+  font-size: 1.3em;
   text-align: center;
   cursor: pointer;
 }
 
-.page-choice:hover {
+.page-choice:hover, .bookmarking:hover  {
   background-color: #CFF2F2;
 }
